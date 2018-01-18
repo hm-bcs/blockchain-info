@@ -22,11 +22,20 @@ It used as a currency system online, without requiring a governing body.
 
 ### Private
 
+### ICO
+ICO: Initial Coin Offering is a process in which currency(USD, AUD, Bitcoin, etc) is offered by investors for an amount of tokens in a new blockchain at project launch(Crowdfunding). There may also be constraints on the ICO, such as reaching a detemined goal, or a time period before the ICO ends.
+
 ## Differences and uses of blockchain implementations
 
 ### Bitcoin
 
 ### Etherium
+
+### FileCoin
+Filecoin is a blockchain cryptocurrency used to serve as a blockchain file storage/retrieval system. It is built upon IPFS(InterPlanetary File System), which uses BitCoin technology. Users gain FileCoin tokens via leasing storage space and/or retrieving content for delivery. Filecoin raised ~$252m in ICO sales. They only sold 10% of tokens during the ICO, leaving the rest for mining rewards[^1]. Filecoin ICO is also different to other blockchain ICOs as it only accepted accredited investors, due to legality[^2]. This is also used to shape the way their investors use the tokens, attempting to avoid investors instantly dumping the tokens.
+
+[^1]: https://www.forbes.com/sites/laurashin/2017/07/19/filecoin-ico-launching-next-week-aims-to-resolve-token-sale-problems/#4e44377e384b
+[^2]: https://btcmanager.com/filecoin-ico-accredited-investors-only/
 
 ### Corda
 - https://docs.corda.net
@@ -254,4 +263,4 @@ For example, with banks -> govt regulators.
 Consensus notary.
 
 #### Ledger
-
+A ledger is where all the public data is stored. Eg. The Bitcoin ledger holds all previous transactions.
